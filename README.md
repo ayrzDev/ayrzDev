@@ -5,7 +5,7 @@ Hi there 👋, I'm Mücahit
 - ✨ Addresses where you can reach me (Discord)
 - 🕯️ Discord: ayrzDev#2849
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/453576139240112138)](https://discord.com/users/809053607772815366)
+[![Discord Presence](https://lanyard.cnrad.dev/api/809053607772815366)](https://discord.com/users/809053607772815366)
 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
