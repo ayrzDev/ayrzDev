@@ -21,4 +21,6 @@ Hi there 👋, I'm Mücahit
 
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### My Instant Discord Profile
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/809053607772815366)](https://discord.com/users/809053607772815366)
