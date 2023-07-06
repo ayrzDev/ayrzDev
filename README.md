@@ -5,7 +5,7 @@ Ben bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Başlıc
 #### Projelerim
 
 - 📁 [Proje 1](https://github.com/kullanici/proje1): FlexSQL, esnek bir PHP ve MySQL kütüphanesidir.
-- 
+
 #### İletişim
 
 Bana aşağıdaki adreslerden ulaşabilirsiniz:
