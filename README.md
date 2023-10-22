@@ -1,4 +1,4 @@
-### Merhaba 👋, Ben Ahmet Mücahit Doğru
+### Merhaba 👋, Ben Ahmet
 
 Ben bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Başlıca ilgi alanlarım PHP ve Java'dır. Ayrıca müzik dinlemeyi çok seviyorum.
 
