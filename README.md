@@ -27,3 +27,8 @@ Bana aşağıdaki adreslerden ulaşabilirsiniz:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<p align="start">
+ <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayrzdev&bg_color=0d1117](https://github-readme-streak-stats.herokuapp.com?user=ayrzdev&theme=dark&locale=en&type=png&background=45%2C0D1117%2C0D1117&border=0D1117" alt="ayrzdev" />
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayrzdev&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=6">
+<img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayrzdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&color=fffff" />
+</p>
