@@ -1,4 +1,4 @@
-### Merhaba 👋, Ben Ahmet
+### Merhaba https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif, Ben Ahmet
 
 Ben bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Başlıca ilgi alanlarım PHP ve Java'dır. Ayrıca müzik dinlemeyi çok seviyorum.
 
