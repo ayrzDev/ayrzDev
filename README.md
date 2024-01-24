@@ -11,7 +11,7 @@ Ben bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Başlıc
 Bana aşağıdaki adreslerden ulaşabilirsiniz:
 
 - 📧 E-posta: ahmet@ayrzdev.com
-- 🌐 Web sitesi: ayrzdev.com
+- 🌐 Web sitesi: [ayrzdev.com](https://ayrzdev.com)
 - 💼 LinkedIn: [linkedin.com/in/ayrz](https://www.linkedin.com/in/ayrz)
 
 ### Kullandığım Teknolojiler
