@@ -13,6 +13,7 @@ Bana aşağıdaki adreslerden ulaşabilirsiniz:
 - 📧 E-posta: ahmet@ayrzdev.com
 - 🌐 Web sitesi: [ayrzdev.com](https://ayrzdev.com)
 - 💼 LinkedIn: [linkedin.com/in/ayrz](https://www.linkedin.com/in/ayrz)
+- 💎 Bionluk: [bionluk.com/ayrzdev](https://bionluk.com/ayrzdev)
 
 ### Kullandığım Teknolojiler
 
