@@ -47,10 +47,3 @@ Ben bir yazılım geliştiriciyim ve burada projelerimi paylaşıyorum. Başlıc
 🎵 **Müzik Listem:** [Spotify](https://open.spotify.com/user/ayrzdev)  
 
 > ⚡ **"Kod yazarken, sanat yapıyoruz!"** ⚡  
-
-https://github-stats-alpha.vercel.app/api?username={your-github-username}&cc=000&tc=fff&ic=fff&bc=000
-
-Where cc = Card Color
-      tc = Text Color
-      ic = Icon Color
-      bc = Border Color
