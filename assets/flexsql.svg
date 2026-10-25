@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="267" height="123" viewBox="0 0 267 123" role="img" aria-labelledby="title desc">
+  <title id="title">FlexSQL</title><desc id="desc">Flexible PHP and MySQL library project card</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111923"/><stop offset="1" stop-color="#0d1117"/></linearGradient><linearGradient id="icon" x2="1" y2="1"><stop stop-color="#172967"/><stop offset="1" stop-color="#263d93"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="266" height="122" rx="6" fill="url(#bg)" stroke="#303f52"/>
+  <rect x="12" y="11" width="40" height="40" rx="7" fill="url(#icon)"/>
+  <path d="M32 20l11 11-11 11-11-11z" fill="none" stroke="#fff" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="32" cy="31" r="4" fill="#fff"/>
+  <g font-family="Arial,sans-serif">
+    <text x="67" y="26" fill="#58a6ff" font-size="14" font-weight="700">FlexSQL</text>
+    <text x="67" y="50" fill="#c9d1d9" font-size="11">Flexible PHP and MySQL library.</text>
+    <text x="242" y="20" fill="#c9d1d9" font-size="16">···</text>
+    <g fill="#19222e" stroke="#293340"><rect x="13" y="65" width="46" height="23" rx="12"/><rect x="70" y="65" width="70" height="23" rx="12"/><rect x="151" y="65" width="57" height="23" rx="12"/></g>
+    <g fill="#c9d1d9" font-size="11"><text x="26" y="80">PHP</text><text x="81" y="80">Database</text><text x="162" y="80">Library</text></g>
+    <text x="16" y="109" fill="#c9d1d9" font-size="13">☆  See repository ↗</text>
+  </g>
+</svg>

@@ -1,23 +1,72 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:0B1220,100:2C5364&text=Ayrz&fontColor=FFFFFF&fontSize=70&fontAlignY=38&desc=System%20Design%20%E2%80%A2%20Backend%20Engineering%20%E2%80%A2%20Dephts%20Studio&descAlignY=62&descSize=17&animation=fadeIn&font=Orbitron" width="100%"/>
+<div align="center">
 
-<p>
-<a href="https://ayrzdev.com"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ayrz"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="mailto:ahmet@ayrzdev.com"><img src="https://img.shields.io/badge/Contact-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-<img src="https://komarev.com/ghpvc/?username=AyrzDev&style=for-the-badge&color=111111&label=Profile+Views"/>
+<img src="assets/hero.svg" width="100%" alt="Ayrz — System Design · Backend Engineering · Dephts Studio" />
+
+<p align="center">
+  <img src="assets/nav-location.svg" width="31%" alt="Location: Turkey" />
+  <a href="https://dephts.com"><img src="assets/nav-website.svg" width="31%" alt="Visit dephts.com" /></a>
+  <a href="https://github.com/ayrzDev"><img src="assets/nav-contact.svg" width="31%" alt="Contact Ayrz on GitHub" /></a>
 </p>
+
+</div>
+
+<h3><img src="assets/heading-about.svg" width="24" height="24" alt="" />&nbsp; About Me</h3>
 
 Backend engineer focused on scalable systems, performance and clean architecture.
 
-## Tech Stack
+I build products, solve real problems and turn ideas into working solutions. Always learning, always improving.
 
-<img src="https://skillicons.dev/icons?i=php,java,python,cs,mysql,mongodb,js,html,css"/>
+<div align="center">
+  <img src="assets/feature-code.svg" width="23%" alt="Code Products" />
+  <img src="assets/feature-build.svg" width="23%" alt="Build Systems" />
+  <img src="assets/feature-scale.svg" width="23%" alt="Scale Ideas" />
+  <img src="assets/feature-collaborate.svg" width="23%" alt="Open to Collaboration" />
+</div>
 
-## GitHub Analytics
+<h3><img src="assets/heading-tech.svg" width="24" height="24" alt="" />&nbsp; Tech Stack</h3>
 
-<p>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=AyrzDev&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyrzDev&bg_color=0D1117&color=A78BFA&line=A78BFA&point=CDD6F4&area=true&hide_border=true"/>
+<sub>Tools I use every day</sub>
+
+<!-- Individual SVG tiles from Devicon (MIT). See assets/DEVICON-LICENSE.txt. -->
+
+<p align="center">
+  <img src="assets/icons/php.svg" width="12%" alt="PHP" />
+  <img src="assets/icons/java.svg" width="12%" alt="Java" />
+  <img src="assets/icons/python.svg" width="12%" alt="Python" />
+  <img src="assets/icons/csharp.svg" width="12%" alt="C#" />
+  <img src="assets/icons/mysql.svg" width="12%" alt="MySQL" />
+  <img src="assets/icons/mongodb.svg" width="12%" alt="MongoDB" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2C5364&height=120&section=footer" width="100%"/>
+<p align="center">
+  <img src="assets/icons/javascript.svg" width="12%" alt="JavaScript" />
+  <img src="assets/icons/typescript.svg" width="12%" alt="TypeScript" />
+  <img src="assets/icons/html5.svg" width="12%" alt="HTML5" />
+  <img src="assets/icons/css3.svg" width="12%" alt="CSS3" />
+  <img src="assets/icons/redis.svg" width="12%" alt="Redis" />
+  <img src="assets/icons/docker.svg" width="12%" alt="Docker" />
+  <img src="assets/icons/linux.svg" width="12%" alt="Linux" />
+</p>
+
+<h3><img src="assets/heading-stats.svg" width="24" height="24" alt="" />&nbsp; GitHub Stats</h3>
+
+<div align="center">
+  <a href="https://github.com/ayrzDev?tab=overview"><img src="assets/stats-contributions.svg" width="31%" alt="Live total contributions" /></a>
+  <a href="https://github.com/ayrzDev?tab=overview"><img src="assets/stats-current.svg" width="31%" alt="Live current streak" /></a>
+  <a href="https://github.com/ayrzDev?tab=overview"><img src="assets/stats-longest.svg" width="31%" alt="Live longest streak" /></a>
+</div>
+
+<h3><img src="assets/heading-projects.svg" width="24" height="24" alt="" />&nbsp; Featured Projects</h3>
+
+<p align="right">
+  <a href="https://github.com/ayrzDev?tab=repositories"><img src="assets/view-projects.svg" width="152" height="28" alt="View all projects" /></a>
+</p>
+
+<div align="center">
+  <a href="https://github.com/ayrzDev/Dragon"><img src="assets/dragon.svg" width="48%" alt="Dragon — PHP Web Framework. Open repository." /></a>
+  <a href="https://github.com/ayrzDev/FlexSQL"><img src="assets/flexsql.svg" width="48%" alt="FlexSQL — flexible PHP and MySQL library. Open repository." /></a>
+</div>
+
+<div align="center">
+  <img src="assets/footer.png" width="100%" alt="Better systems, better products, better days. — Ayrz" />
+</div>

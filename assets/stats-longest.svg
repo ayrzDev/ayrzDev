@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="177" height="100" viewBox="0 0 177 100" role="img" aria-labelledby="title desc">
+  <title id="title">Longest Streak</title>
+  <desc id="desc">Longest Streak: 24. Sep 15 – Oct 8</desc>
+  <rect x="0.5" y="0.5" width="176" height="99" rx="7" fill="#15202d" stroke="#344255"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="14" y="35" fill="#ffbf32" font-size="23">♜</text>
+    <text x="61" y="36" fill="#ffbf32" font-size="23" font-weight="700">24</text>
+    <text x="14" y="62" fill="#dbe4ee" font-size="12">Longest Streak</text>
+    <text x="14" y="79" fill="#ffbf32" font-size="10">Sep 15 – Oct 8</text>
+  </g>
+  <path d="M12 95 165 82" fill="none" stroke="#ffbf32" stroke-width="2" stroke-linecap="round"/>
+</svg>
