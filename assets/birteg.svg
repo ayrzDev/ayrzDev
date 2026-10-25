@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="267" height="123" viewBox="0 0 267 123" role="img" aria-labelledby="title desc">
+  <title id="title">Birteg</title><desc id="desc">E-commerce integration SaaS. Visit birteg.com ↗</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111923"/><stop offset="1" stop-color="#0d1117"/></linearGradient><linearGradient id="icon" x2="1" y2="1"><stop stop-color="#1948a6"/><stop offset="1" stop-color="#407fff"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="266" height="122" rx="6" fill="url(#bg)" stroke="#303f52"/>
+  <rect x="12" y="11" width="40" height="40" rx="7" fill="url(#icon)"/>
+  <path d="M23 22h10a6 6 0 0 1 0 12H23zm0 12h12a6 6 0 0 1 0 12H23z" fill="none" stroke="#fff" stroke-width="3.5" stroke-linejoin="round" transform="translate(0 -3)"/>
+  <g font-family="Arial,sans-serif">
+    <text x="67" y="27" fill="#58a6ff" font-size="14" font-weight="700">Birteg</text>
+    <text x="67" y="48" fill="#c9d1d9" font-size="11">E-commerce integration SaaS</text>
+    <rect x="13" y="65" width="45" height="23" rx="12" fill="#19222e" stroke="#293340"/><text x="35.5" y="80" fill="#c9d1d9" font-size="11" text-anchor="middle">PHP</text><rect x="67" y="65" width="48" height="23" rx="12" fill="#19222e" stroke="#293340"/><text x="91.0" y="80" fill="#c9d1d9" font-size="11" text-anchor="middle">SaaS</text><rect x="124" y="65" width="86" height="23" rx="12" fill="#19222e" stroke="#293340"/><text x="167.0" y="80" fill="#c9d1d9" font-size="11" text-anchor="middle">E-commerce</text>
+    <text x="16" y="109" fill="#58a6ff" font-size="12">Visit birteg.com ↗</text>
+  </g>
+</svg>

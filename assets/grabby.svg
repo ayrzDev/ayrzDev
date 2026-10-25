@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="267" height="123" viewBox="0 0 267 123" role="img" aria-labelledby="title desc">
+  <title id="title">Grabby</title><desc id="desc">2D climbing adventure. In development</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111923"/><stop offset="1" stop-color="#0d1117"/></linearGradient><linearGradient id="icon" x2="1" y2="1"><stop stop-color="#48318d"/><stop offset="1" stop-color="#8661d7"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="266" height="122" rx="6" fill="url(#bg)" stroke="#303f52"/>
+  <rect x="12" y="11" width="40" height="40" rx="7" fill="url(#icon)"/>
+  <path d="M24 24h16c4 0 6 4 7 10l1 5c1 5-3 6-6 2l-3-4H25l-3 4c-3 4-7 3-6-2l1-5c1-6 3-10 7-10Z" fill="none" stroke="#fff" stroke-width="2.3" stroke-linejoin="round"/><path d="M23 28v8m-4-4h8" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/><circle cx="38" cy="29" r="1.7" fill="#fff"/><circle cx="42" cy="33" r="1.7" fill="#fff"/>
+  <g font-family="Arial,sans-serif">
+    <text x="67" y="27" fill="#c4a5ff" font-size="14" font-weight="700">Grabby</text>
+    <text x="67" y="48" fill="#c9d1d9" font-size="11">2D climbing adventure</text>
+    <rect x="13" y="65" width="51" height="23" rx="12" fill="#19222e" stroke="#293340"/><text x="38.5" y="80" fill="#c9d1d9" font-size="11" text-anchor="middle">Unity</text><rect x="73" y="65" width="39" height="23" rx="12" fill="#19222e" stroke="#293340"/><text x="92.5" y="80" fill="#c9d1d9" font-size="11" text-anchor="middle">C#</text><rect x="121" y="65" width="43" height="23" rx="12" fill="#19222e" stroke="#293340"/><text x="142.5" y="80" fill="#c9d1d9" font-size="11" text-anchor="middle">iOS</text>
+    <text x="16" y="109" fill="#c4a5ff" font-size="12">In development</text>
+  </g>
+</svg>

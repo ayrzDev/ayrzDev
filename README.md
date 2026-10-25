@@ -63,6 +63,11 @@ I build products, solve real problems and turn ideas into working solutions. Alw
 </p>
 
 <div align="center">
+  <a href="https://birteg.com"><img src="assets/birteg.svg" width="267" alt="Birteg — e-commerce integration SaaS for products, stock, prices and orders. Visit birteg.com." /></a>
+  <img src="assets/grabby.svg" width="267" alt="Grabby — 2D climbing adventure built with Unity and C#. In development." />
+</div>
+
+<div align="center">
   <a href="https://github.com/ayrzDev/Dragon"><img src="assets/dragon.svg" width="267" alt="Dragon — PHP Web Framework. Open repository." /></a>
   <a href="https://github.com/ayrzDev/FlexSQL"><img src="assets/flexsql.svg" width="267" alt="FlexSQL — flexible PHP and MySQL library. Open repository." /></a>
 </div>
