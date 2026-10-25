@@ -17,10 +17,10 @@ Backend engineer focused on scalable systems, performance and clean architecture
 I build products, solve real problems and turn ideas into working solutions. Always learning, always improving.
 
 <div align="center">
-  <img src="assets/feature-code.svg" width="23%" alt="Code Products" />
-  <img src="assets/feature-build.svg" width="23%" alt="Build Systems" />
-  <img src="assets/feature-scale.svg" width="23%" alt="Scale Ideas" />
-  <img src="assets/feature-collaborate.svg" width="23%" alt="Open to Collaboration" />
+  <img src="assets/feature-code-compact.svg" width="23%" alt="Code Products" />
+  <img src="assets/feature-build-compact.svg" width="23%" alt="Build Systems" />
+  <img src="assets/feature-scale-compact.svg" width="23%" alt="Scale Ideas" />
+  <img src="assets/feature-collaborate-compact.svg" width="23%" alt="Open to Collaboration" />
 </div>
 
 <h3><img src="assets/heading-tech.svg" width="24" height="24" alt="" />&nbsp; Tech Stack</h3>
