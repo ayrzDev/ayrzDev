@@ -63,8 +63,8 @@ I build products, solve real problems and turn ideas into working solutions. Alw
 </p>
 
 <div align="center">
-  <a href="https://birteg.com"><img src="assets/birteg.svg" width="267" alt="Birteg — e-commerce integration SaaS for products, stock, prices and orders. Visit birteg.com." /></a>
-  <img src="assets/grabby.svg" width="267" alt="Grabby — 2D climbing adventure built with Unity and C#. In development." />
+  <a href="https://birteg.com"><img src="assets/birteg-branded.svg" width="267" alt="Birteg — e-commerce integration SaaS for products, stock, prices and orders. Visit birteg.com." /></a>
+  <img src="assets/grabby-branded.svg" width="267" alt="Grabby — 2D climbing adventure built with Unity and C#. In development." />
 </div>
 
 <div align="center">
