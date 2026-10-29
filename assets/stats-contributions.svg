@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="177" height="100" viewBox="0 0 177 100" role="img" aria-labelledby="title desc">
   <title id="title">Total Contributions</title>
-  <desc id="desc">Total Contributions: 2,167. Sep 20, 2020 – Present</desc>
+  <desc id="desc">Total Contributions: 2,172. Sep 20, 2020 – Present</desc>
   <rect x="0.5" y="0.5" width="176" height="99" rx="7" fill="#152133" stroke="#344255"/>
   <g font-family="Arial,Helvetica,sans-serif">
     <text x="14" y="35" fill="#58a6ff" font-size="23">⑂</text>
-    <text x="61" y="36" fill="#58a6ff" font-size="23" font-weight="700">2,167</text>
+    <text x="61" y="36" fill="#58a6ff" font-size="23" font-weight="700">2,172</text>
     <text x="14" y="62" fill="#dbe4ee" font-size="12">Total Contributions</text>
     <text x="14" y="79" fill="#58a6ff" font-size="10">Sep 20, 2020 – Present</text>
   </g>
