@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-"""Update individual GitHub profile stat cards from public contribution data."""
-
+"""Refresh the profile's three original SVG activity cards."""
 import argparse
 import json
 from datetime import date
@@ -10,61 +9,50 @@ from urllib.request import Request, urlopen
 
 STATS_URL = "https://streak-stats.demolab.com/?user=ayrzDev&type=json"
 
+def short_date(value):
+    return value.strftime("%b") + " " + str(value.day)
 
 def date_range(start, end):
     first, last = date.fromisoformat(start), date.fromisoformat(end)
     if first > last:
         raise ValueError("Streak dates are reversed")
-    left, right = first.strftime("%b %-d"), last.strftime("%b %-d")
+    left, right = short_date(first), short_date(last)
     if first.year != last.year:
-        left += f", {first.year}"
+        left += ", " + str(first.year)
     if last.year != date.today().year:
-        right += f", {last.year}"
-    return f"{left} – {right}"
+        right += ", " + str(last.year)
+    return left + " – " + right
 
-
-def card(label, value, detail, accent, background, icon):
+def card(label, value, detail):
     if type(value) is not int or value < 0:
-        raise ValueError(f"Invalid value for {label}")
+        raise ValueError("Invalid activity value")
     number = f"{value:,}"
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="177" height="100" viewBox="0 0 177 100" role="img" aria-labelledby="title desc">
-  <title id="title">{escape(label)}</title>
-  <desc id="desc">{escape(f'{label}: {number}. {detail}')}</desc>
-  <rect x="0.5" y="0.5" width="176" height="99" rx="7" fill="{background}" stroke="#344255"/>
-  <g font-family="Arial,Helvetica,sans-serif">
-    <text x="14" y="35" fill="{accent}" font-size="23">{icon}</text>
-    <text x="61" y="36" fill="{accent}" font-size="23" font-weight="700">{number}</text>
-    <text x="14" y="62" fill="#dbe4ee" font-size="12">{escape(label)}</text>
-    <text x="14" y="79" fill="{accent}" font-size="10">{escape(detail)}</text>
-  </g>
-  <path d="M12 95 165 82" fill="none" stroke="{accent}" stroke-width="2" stroke-linecap="round"/>
-</svg>
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="250" height="120" viewBox="0 0 250 120" role="img" aria-labelledby="title desc">
+<title id="title">{escape(label)}</title><desc id="desc">{escape(label + ': ' + number + '. ' + detail)}</desc>
+<rect x=".5" y=".5" width="249" height="119" rx="10" fill="#111823" stroke="#2a3547"/>
+<rect x="19" y="16" width="20" height="3" rx="1.5" fill="#8193ff"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="18" y="58" font-size="32" font-weight="650" letter-spacing="-.8" fill="#eef3fa">{number}</text>
+<text x="19" y="82" font-size="12" fill="#acbbcf">{escape(label)}</text>
+<text x="19" y="103" font-size="10" fill="#74869f">{escape(detail)}</text>
+</g></svg>
 '''
-
 
 def update(data, output_dir):
     first = data.get("firstContribution")
-    total_detail = (date.fromisoformat(first).strftime("%b %-d, %Y") + " – Present") if first else "Public GitHub activity"
-    definitions = [
-        ("contributions", "Total Contributions", data["totalContributions"], total_detail, "#58a6ff", "#152133", "⑂"),
-    ]
-    for key, filename, label, accent, background, icon in [
-        ("currentStreak", "current", "Current Streak", "#d35be7", "#211a2c", "♨"),
-        ("longestStreak", "longest", "Longest Streak", "#ffbf32", "#15202d", "♜"),
-    ]:
+    detail = short_date(date.fromisoformat(first)) + ", " + str(date.fromisoformat(first).year) + " – present" if first else "GitHub contributions"
+    definitions = [("contributions", "Total contributions", data["totalContributions"], detail)]
+    for key, name, label in [("currentStreak", "current", "Current streak"), ("longestStreak", "longest", "Longest streak")]:
         streak = data[key]
         detail = date_range(streak["start"], streak["end"]) if streak["length"] else "No active streak"
-        definitions.append((filename, label, streak["length"], detail, accent, background, icon))
-    # Validate and render every card before changing any files.
-    cards = {f"stats-{name}.svg": card(label, value, detail, accent, background, icon)
-             for name, label, value, detail, accent, background, icon in definitions}
+        definitions.append((name, label, streak["length"], detail))
+    rendered = {"stats-" + name + ".svg": card(label, value, detail) for name, label, value, detail in definitions}
     output_dir.mkdir(parents=True, exist_ok=True)
-    for filename, svg in cards.items():
-        target = output_dir / filename
-        if not target.exists() or target.read_text(encoding="utf-8") != svg:
-            target.write_text(svg, encoding="utf-8")
-            print(f"Updated {filename}")
-
+    for name, svg in rendered.items():
+        destination = output_dir / name
+        if not destination.exists() or destination.read_text(encoding="utf-8") != svg:
+            destination.write_text(svg, encoding="utf-8")
+            print("Updated " + name)
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
@@ -78,7 +66,6 @@ def main():
         with urlopen(request, timeout=20) as response:
             data = json.load(response)
     update(data, args.output_dir)
-
 
 if __name__ == "__main__":
     main()

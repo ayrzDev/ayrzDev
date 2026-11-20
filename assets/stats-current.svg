@@ -1,12 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="177" height="100" viewBox="0 0 177 100" role="img" aria-labelledby="title desc">
-  <title id="title">Current Streak</title>
-  <desc id="desc">Current Streak: 5. Nov 15 – Nov 19</desc>
-  <rect x="0.5" y="0.5" width="176" height="99" rx="7" fill="#211a2c" stroke="#344255"/>
-  <g font-family="Arial,Helvetica,sans-serif">
-    <text x="14" y="35" fill="#d35be7" font-size="23">♨</text>
-    <text x="61" y="36" fill="#d35be7" font-size="23" font-weight="700">5</text>
-    <text x="14" y="62" fill="#dbe4ee" font-size="12">Current Streak</text>
-    <text x="14" y="79" fill="#d35be7" font-size="10">Nov 15 – Nov 19</text>
-  </g>
-  <path d="M12 95 165 82" fill="none" stroke="#d35be7" stroke-width="2" stroke-linecap="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="120" viewBox="0 0 250 120" role="img" aria-labelledby="title desc">
+<title id="title">Current streak</title><desc id="desc">Current streak: 6. Nov 15 – Nov 20</desc>
+<rect x=".5" y=".5" width="249" height="119" rx="10" fill="#111823" stroke="#2a3547"/>
+<rect x="19" y="16" width="20" height="3" rx="1.5" fill="#8193ff"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="18" y="58" font-size="32" font-weight="650" letter-spacing="-.8" fill="#eef3fa">6</text>
+<text x="19" y="82" font-size="12" fill="#acbbcf">Current streak</text>
+<text x="19" y="103" font-size="10" fill="#74869f">Nov 15 – Nov 20</text>
+</g></svg>

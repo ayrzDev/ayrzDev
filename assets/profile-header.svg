@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="318" viewBox="0 0 1040 318" role="img" aria-labelledby="title desc">
+  <title id="title">Ayrz — Backend engineering</title>
+  <desc id="desc">Systems behind the product. Dephts Studio. An original vector banner with a quiet service architecture diagram.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#121925"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7186ff" stop-opacity=".16"/><stop offset="1" stop-color="#7186ff" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#91a0b8" stroke-opacity=".045"/></pattern>
+    <clipPath id="clip"><rect width="1040" height="318" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1040" height="318" fill="url(#surface)"/>
+    <rect x="535" width="505" height="318" fill="url(#grid)"/>
+    <ellipse cx="887" cy="91" rx="270" ry="230" fill="url(#glow)"/>
+    <rect x=".5" y=".5" width="1039" height="317" rx="17.5" fill="none" stroke="#283344"/>
+    <g font-family="Segoe UI,Arial,sans-serif">
+      <text x="43" y="48" font-size="11" letter-spacing="3" fill="#8395b0">ENGINEERING / PRODUCTS / SYSTEMS</text>
+      <text x="39" y="132" font-size="79" font-weight="700" letter-spacing="-4" fill="#eff3fa">Ayrz</text>
+      <circle cx="210" cy="123" r="6" fill="#8193ff"/>
+      <text x="44" y="174" font-size="15" letter-spacing="3.8" fill="#9cafc9">BACKEND ENGINEERING</text>
+      <text x="43" y="224" font-size="29" letter-spacing="-.6" fill="#d6dfed">Systems behind the product.</text>
+      <path d="M44 258H461" stroke="#2a3547"/>
+      <text x="44" y="287" font-size="12" letter-spacing="1.5" fill="#8494aa">FOUNDER, DEPHTS STUDIO</text>
+      <text x="461" y="287" font-size="12" text-anchor="end" fill="#b8c5d8">dephts.com ↗</text>
+    </g>
+    <g fill="none" stroke="#3d4e6b" stroke-width="1.5">
+      <path d="M564 150H625M757 150H803Q824 150 824 173V207"/>
+      <path d="M691 178V217Q691 233 708 233H797"/>
+      <circle cx="561" cy="150" r="3" fill="#8193ff" stroke="none"/>
+      <circle cx="797" cy="233" r="3" fill="#8193ff" stroke="none"/>
+      <rect x="625" y="123" width="132" height="55" rx="9" fill="#182133"/>
+      <rect x="797" y="207" width="146" height="55" rx="9" fill="#151e2d"/>
+      <rect x="803" y="56" width="140" height="55" rx="9" fill="#151e2d"/>
+      <path d="M757 150H775Q787 150 787 137V96Q787 83 803 83"/>
+    </g>
+    <g font-family="Consolas,monospace" font-size="12" letter-spacing="1.1" fill="#acbbd1" text-anchor="middle">
+      <text x="691" y="156">SERVICE</text><text x="873" y="89">API</text><text x="870" y="240">DATA</text>
+    </g>
+    <text x="942" y="289" text-anchor="end" font-family="Consolas,monospace" font-size="10" letter-spacing="1" fill="#667a97">STRUCTURE → EXECUTION</text>
+  </g>
+</svg>

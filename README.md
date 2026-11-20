@@ -1,77 +1,51 @@
-<div align="center">
-
-<img src="assets/hero.svg" width="720" alt="Ayrz — System Design · Backend Engineering · Dephts Studio" />
+<img src="assets/profile-header.svg" width="100%" alt="Ayrz — Backend engineering. Systems behind the product." />
 
 <p align="center">
-  <img src="assets/nav-location.svg" width="31%" alt="Location: Turkey" />
-  <a href="https://dephts.com"><img src="assets/nav-website.svg" width="31%" alt="Visit dephts.com" /></a>
-  <a href="https://github.com/ayrzDev"><img src="assets/nav-contact.svg" width="31%" alt="Contact Ayrz on GitHub" /></a>
+  <a href="https://dephts.com"><strong>Dephts Studio</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/ayrzDev?tab=repositories">Repositories</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/ayrzDev">Connect</a>
+  &nbsp; / &nbsp;
+  Turkey
 </p>
 
-</div>
+I build the systems behind products: APIs, integrations, data flows and the tools that make them work together.
 
-<h3><img src="assets/heading-about.svg" width="24" height="24" alt="" />&nbsp; About Me</h3>
+Founder at **[Dephts Studio](https://dephts.com)**. My focus is backend engineering, system design and performance, with a practical approach to shipping and maintaining software.
 
-Backend engineer focused on scalable systems, performance and clean architecture.
+## Selected work
 
-I build products, solve real problems and turn ideas into working solutions. Always learning, always improving.
+| Project | Focus |
+| :--- | :--- |
+| **[Birteg Entegrasyon ↗](https://birteg.com)**<br><sub>E-commerce · Integration platform</sub> | Connecting products, stock, pricing and orders across commerce channels. |
+| **Grabby**<br><sub>Unity · C# · In development</sub> | A 2D climbing adventure, built around movement and exploration. |
+| **[Dragon ↗](https://github.com/ayrzDev/Dragon)**<br><sub>PHP · Web framework</sub> | A PHP framework for building web applications. |
+| **[FlexSQL ↗](https://github.com/ayrzDev/FlexSQL)**<br><sub>PHP · MySQL</sub> | A flexible PHP library for working with MySQL. |
+| **[Sonar Echo Guard ↗](https://github.com/ayrzDev/SonarEchoGuard)**<br><sub>C# · Windows · Audio</sub> | A small tray utility for the Discord and SteelSeries Sonar echo workaround. |
 
-<div align="center">
-  <img src="assets/feature-code-compact.svg" width="23%" alt="Code Products" />
-  <img src="assets/feature-build-compact.svg" width="23%" alt="Build Systems" />
-  <img src="assets/feature-scale-compact.svg" width="23%" alt="Scale Ideas" />
-  <img src="assets/feature-collaborate-compact.svg" width="23%" alt="Open to Collaboration" />
-</div>
+<p align="right"><a href="https://github.com/ayrzDev?tab=repositories">Explore all repositories →</a></p>
 
-<h3><img src="assets/heading-tech.svg" width="24" height="24" alt="" />&nbsp; Tech Stack</h3>
+## Working stack
 
-<sub>Tools I use every day</sub>
+| Area | Technologies |
+| :--- | :--- |
+| Backend | `PHP` · `Java` · `Python` · `C#` |
+| Data | `MySQL` · `MongoDB` · `Redis` |
+| Web | `JavaScript` · `TypeScript` · `HTML` · `CSS` |
+| Environment | `Docker` · `Linux` |
 
-<!-- Individual SVG tiles from Devicon (MIT). See assets/DEVICON-LICENSE.txt. -->
+## Activity
 
 <p align="center">
-  <img src="assets/icons/php.svg" width="56" height="56" alt="PHP" />
-  <img src="assets/icons/java.svg" width="56" height="56" alt="Java" />
-  <img src="assets/icons/python.svg" width="56" height="56" alt="Python" />
-  <img src="assets/icons/csharp.svg" width="56" height="56" alt="C#" />
-  <img src="assets/icons/mysql.svg" width="56" height="56" alt="MySQL" />
-  <img src="assets/icons/mongodb.svg" width="56" height="56" alt="MongoDB" />
+  <a href="https://github.com/ayrzDev?tab=overview"><img src="assets/stats-contributions.svg" width="32%" alt="Total GitHub contributions" /></a>
+  <a href="https://github.com/ayrzDev?tab=overview"><img src="assets/stats-current.svg" width="32%" alt="Current contribution streak" /></a>
+  <a href="https://github.com/ayrzDev?tab=overview"><img src="assets/stats-longest.svg" width="32%" alt="Longest contribution streak" /></a>
 </p>
 
-<p align="center">
-  <img src="assets/icons/javascript.svg" width="56" height="56" alt="JavaScript" />
-  <img src="assets/icons/typescript.svg" width="56" height="56" alt="TypeScript" />
-  <img src="assets/icons/html5.svg" width="56" height="56" alt="HTML5" />
-  <img src="assets/icons/css3.svg" width="56" height="56" alt="CSS3" />
-  <img src="assets/icons/redis.svg" width="56" height="56" alt="Redis" />
-  <img src="assets/icons/docker.svg" width="56" height="56" alt="Docker" />
-  <img src="assets/icons/linux.svg" width="56" height="56" alt="Linux" />
-</p>
+<p align="center"><sub>GitHub activity, refreshed automatically.</sub></p>
 
-<h3><img src="assets/heading-stats.svg" width="24" height="24" alt="" />&nbsp; GitHub Stats</h3>
+---
 
-<div align="center">
-  <a href="https://github.com/ayrzDev?tab=overview"><img src="assets/stats-contributions.svg" width="177" alt="Live total contributions" /></a>
-  <a href="https://github.com/ayrzDev?tab=overview"><img src="assets/stats-current.svg" width="177" alt="Live current streak" /></a>
-  <a href="https://github.com/ayrzDev?tab=overview"><img src="assets/stats-longest.svg" width="177" alt="Live longest streak" /></a>
-</div>
-
-<h3><img src="assets/heading-projects.svg" width="24" height="24" alt="" />&nbsp; Featured Projects</h3>
-
-<p align="right">
-  <a href="https://github.com/ayrzDev?tab=repositories"><img src="assets/view-projects.svg" width="152" height="28" alt="View all projects" /></a>
-</p>
-
-<div align="center">
-  <a href="https://birteg.com"><img src="assets/birteg-integration.svg" width="267" alt="Birteg Entegrasyon — e-commerce integration platform for products, stock, prices and orders. Visit birteg.com." /></a>
-  <img src="assets/grabby-game.svg" width="267" alt="Grabby — 2D climbing adventure built with Unity and C#. In development." />
-</div>
-
-<div align="center">
-  <a href="https://github.com/ayrzDev/Dragon"><img src="assets/dragon.svg" width="267" alt="Dragon — PHP Web Framework. Open repository." /></a>
-  <a href="https://github.com/ayrzDev/FlexSQL"><img src="assets/flexsql.svg" width="267" alt="FlexSQL — flexible PHP and MySQL library. Open repository." /></a>
-</div>
-
-<div align="center">
-  <img src="assets/footer.png" width="720" alt="Better systems, better products, better days. — Ayrz" />
-</div>
+Open to collaborations around backend systems, integrations and useful products.<br>
+**[dephts.com ↗](https://dephts.com)**
