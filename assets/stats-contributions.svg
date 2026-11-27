@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="250" height="120" viewBox="0 0 250 120" role="img" aria-labelledby="title desc">
-<title id="title">Total contributions</title><desc id="desc">Total contributions: 2,313. Sep 20, 2020 – present</desc>
+<title id="title">Total contributions</title><desc id="desc">Total contributions: 2,315. Sep 20, 2020 – present</desc>
 <rect x=".5" y=".5" width="249" height="119" rx="10" fill="#111823" stroke="#2a3547"/>
 <rect x="19" y="16" width="20" height="3" rx="1.5" fill="#8193ff"/>
 <g font-family="Segoe UI,Arial,sans-serif">
-<text x="18" y="58" font-size="32" font-weight="650" letter-spacing="-.8" fill="#eef3fa">2,313</text>
+<text x="18" y="58" font-size="32" font-weight="650" letter-spacing="-.8" fill="#eef3fa">2,315</text>
 <text x="19" y="82" font-size="12" fill="#acbbcf">Total contributions</text>
 <text x="19" y="103" font-size="10" fill="#74869f">Sep 20, 2020 – present</text>
 </g></svg>
